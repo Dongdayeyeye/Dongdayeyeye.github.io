@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 我的爱好
-permalink: /hobby/ 
+permalink: /hobbies/ 
 ---
 
 ## dancing
