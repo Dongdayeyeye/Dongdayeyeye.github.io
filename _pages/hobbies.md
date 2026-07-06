@@ -1,6 +1,6 @@
 ---
-layout: page
-title: 我的爱好
+layout: archive
+title: dudududu ludulududu
 permalink: /hobbies/ 
 author_profile: true
 ---
