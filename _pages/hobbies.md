@@ -2,6 +2,7 @@
 layout: page
 title: 我的爱好
 permalink: /hobbies/ 
+author_profile: true
 ---
 
 ## dancing
