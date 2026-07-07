@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Street Dancing
-lalala i like dancing lalala
+As for dancing, I was exposed to Jazz and Hiphop in Grade 7. I joined the street dance clubs throughout high school and university, and I’ve been dancing for nine years in total.
 <div style="display: flex; gap: 12px; justify-content: center;">
   <img src="../images/dancing1.jpg" style="height: 220px; object-fit: contain;" alt="图1">
   <img src="../images/dancing2.jpg" style="height: 220px; object-fit: contain;" alt="图2">
@@ -29,4 +29,4 @@ wow it's not transformer CNN model, it's traditional chinese medicine
 Engaged in long-term counseling for five years (no mental illness) and accumulated substantial psychology knowledge.
 
 ## Yoga
-lalala yoga is tiring
+Yoga is my new hobby this year, and I’m steadily working on mastering the tripod headstand.
