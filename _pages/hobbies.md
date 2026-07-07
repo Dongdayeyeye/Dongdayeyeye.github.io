@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: dudududu ludulududu
+title: A Person with a Wide Range of Hobbies.
 permalink: /hobbies/ 
 author_profile: true
 ---
