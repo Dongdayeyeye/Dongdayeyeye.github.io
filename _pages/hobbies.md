@@ -8,18 +8,21 @@ author_profile: true
 ## Street Dancing
 lalala i like dancing lalala
 <div style="display: flex; gap: 12px; justify-content: center;">
-  <img src="../assets/dancing1.jpg" style="height: 220px; object-fit: contain;" alt="图1">
-  <img src="../assets/dancing2.jpg" style="height: 220px; object-fit: contain;" alt="图2">
-  <img src="../assets/dancing3.jpg" style="height: 220px; object-fit: contain;" alt="图3">
+  <img src="../images/dancing1.jpg" style="height: 220px; object-fit: contain;" alt="图1">
+  <img src="../images/dancing2.jpg" style="height: 220px; object-fit: contain;" alt="图2">
+  <img src="../images/dancing3.jpg" style="height: 220px; object-fit: contain;" alt="图3">
 </div>
 
 ## Basketball
 I was on the school basketball team in primary school, and served as the women’s basketball captain of my college house during high school.
+<div style="display: flex; gap: 12px; justify-content: center;">
+  <img src="../images/basketball.jpg" style="height: 220px; object-fit: contain;" alt="图4">
+</div>
 
 ## Traditional Chinses Medicine
 wow it's not transformer CNN model, it's traditional chinese medicine
 <div style="display: flex; gap: 12px; justify-content: center;">
-  <img src="../assets/aijiu.jpg" style="height: 220px; object-fit: contain;" alt="图4">
+  <img src="../images/aijiu.jpg" style="height: 220px; object-fit: contain;" alt="图4">
 </div>
 
 ## Psychology
