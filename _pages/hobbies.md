@@ -5,14 +5,17 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-## dancing
+## Street Dancing
 lalala i like dancing lalala
 
-## yoga
-lalala yoga is tiring
+## Basketball
+I was on the school basketball team in primary school, and served as the women’s basketball captain of my college house during high school.
 
 ## TCM
 wow it's not transformer CNN model, it's traditional chinese medicine
 
-## psychology
+## Psychology
 you got me feeling like a psycho psycho
+
+## Yoga
+lalala yoga is tiring
